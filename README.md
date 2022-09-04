@@ -23,3 +23,4 @@ The last image is when you get to go back to the previous city:
 
 The Pages for the website: 
 
+https://jgarcia128.github.io/Weather-API/
