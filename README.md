@@ -15,6 +15,11 @@ The First Picture is the opening of the Website:
 
 The Second Picutre Demonsrates the Look up of city along with saving it into storage to go back to it and showing the five days:
 
+![image](https://user-images.githubusercontent.com/107437105/188296829-74b7116d-6128-4862-9b37-34b67bd2b6ee.png)
 
-The last image is when you get to go back to the previous city:  
+The last image is when you get to go back to the previous city: 
+![image](https://user-images.githubusercontent.com/107437105/188296845-cea4372e-5137-4170-9f23-9a6941a742c6.png)
+
+
+The Pages for the website: 
 
